@@ -1,0 +1,17 @@
+.InfoContainer {
+    background-color: lightsalmon;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.CurrentInfo {
+    display: flex;
+    .CurrentPrice {
+        margin-right: auto;
+    }
+}
+
+.GeneralInfo {
+
+}

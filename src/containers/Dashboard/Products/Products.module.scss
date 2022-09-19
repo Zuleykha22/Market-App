@@ -1,0 +1,17 @@
+.ProductsContainer {
+    background-color: aqua;
+    grid-column: 2 / 3;
+    grid-row: 1 / 3;
+}
+
+.Search {
+    height: 70px;
+}
+.AddWrapper {
+    height: 70px;
+}
+
+.ProductList {
+    height: calc(100vh - 140px);
+    overflow: auto;
+}
